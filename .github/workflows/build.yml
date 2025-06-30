@@ -22,7 +22,7 @@ jobs:
 
       - name: Create Flutter Project
         run: |
-          flutter create my_app
+          flutter create neetx
 
       - name: Commit changes
         run: |
